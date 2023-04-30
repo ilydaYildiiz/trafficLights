@@ -1,0 +1,11 @@
+-d C:\Users\ilyda\OneDrive\Desktop\fpga\trafficLights\impl\gwsynthesis\trafficLights.vg
+-p GW1N-1-QFN48-6
+-pn GW1N-LV1QN48C6/I5
+-cst C:\Users\ilyda\OneDrive\Desktop\fpga\trafficLights\src\trafficLights.cst
+-cfg C:\Users\ilyda\OneDrive\Desktop\fpga\trafficLights\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23
